@@ -1,8 +1,16 @@
-# React + Vite
+This is a To-Do List Web Application using HTML, Reactjs and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To Run this Application in your Local Computer follow these processes:-
 
-Currently, two official plugins are available:
+1. First Download the Source Coode ZIP folder then Unzip
+2. Then open that folder in VS Code
+3. Then Open the Terminal window of VS code and type -  npm install
+4. Then type - npm run dev
+5. After that a local host address will shown on your Terminal window then Click that Local Host Address and experinece  this Web Application on your local pc.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+follow tha above steps to run the application.
+
+1. npm install
+2. npm run dev
